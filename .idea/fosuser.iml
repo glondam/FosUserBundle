@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/doctrine-cache-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/fig/link-util" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/incenteev/composer-parameter-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/jdorn/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/psr/link" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/sensio/distribution-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/sensio/generator-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/sensiolabs/security-checker" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/phpunit-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/polyfill-apcu" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/polyfill-intl-icu" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/polyfill-php56" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/polyfill-util" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/swiftmailer-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/symfony/symfony" />
+      <excludeFolder url="file://$MODULE_DIR$/login/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP Runtime" type="php">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </CLASSES>
+        <SOURCES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
